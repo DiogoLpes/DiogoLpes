@@ -1,16 +1,23 @@
-## Hi there 👋
+## Diogo Lopes
 
-<!--
-**DiogoLpes/DiogoLpes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Programming Student | Frontend-oriented | Backend**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##About Me
+
+I’m a Web Programming student with a strong interest in frontend development and solid experience working across the full stack. I enjoy transforming ideas into clean, functional interfaces while ensuring reliable and well-structured backend support.
+
+##Education
+
+Web Programming Course (2 years) — ETIC Algarve
+
+##Tech Stack
+
+Frontend: HTML, CSS, React, Next.js
+Backend: Python, FastAPI, Django
+DevOps & Containers: Docker, Docker Compose
+Tools & Collaboration: Git, GitHub
+
+
+
+
